@@ -1,1 +1,1 @@
-# --Pulseiq--
+# Pulseiq
